@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Cache
+.cache/
+
+# Production build folders
+build/
+dist/
+
+# Log files
+*.log
