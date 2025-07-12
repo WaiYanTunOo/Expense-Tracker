@@ -1,3 +1,18 @@
+<<<<<<< HEAD
 /.vscode
 node_modules
 
+=======
+# Dependencies
+node_modules/
+
+# Cache
+.cache/
+
+# Production build folders
+build/
+dist/
+
+# Log files
+*.log
+>>>>>>> 7174884fadc788a68038b253032b4af64dd639ad
